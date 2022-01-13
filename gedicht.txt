@@ -7,3 +7,5 @@ Blau
 Gelb
 Magenta
 Sind alles tolle Farben.
+
++ Lila 
